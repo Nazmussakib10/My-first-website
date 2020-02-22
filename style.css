@@ -1,0 +1,38 @@
+.top{
+ display: grid;
+ grid-template-columns: auto auto;
+ grid-gap: 20px;
+}
+.top img{
+    width:100%;
+}
+.top-heading{
+    font-size:20px;
+    font-style: initial;
+    font-family: sans-serif;
+    margin-left: 15px;
+    
+}
+.name-highlight{
+    color:red;
+}
+.experience{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 20px;
+    margin: 0 20px;
+
+
+}
+.first-ex{
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 7px solid red;
+
+}
+.second-ex{
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 7px solid blue;
+
+}
