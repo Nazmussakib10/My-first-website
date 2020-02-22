@@ -17,6 +17,7 @@
     color:red;
 }
 .experience{
+ margin-top:20px;
     display: grid;
     grid-template-columns: auto auto;
     grid-gap: 20px;
